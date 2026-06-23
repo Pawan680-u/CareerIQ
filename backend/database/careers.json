@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Frontend Developer",
+    "description": "Build responsive user interfaces with modern JavaScript frameworks.",
+    "required_skills": ["HTML", "CSS", "JavaScript", "React", "Tailwind"]
+  },
+  {
+    "name": "Backend Developer",
+    "description": "Create APIs, server-side logic, and database-driven applications.",
+    "required_skills": ["Python", "Flask", "API", "SQL", "Git"]
+  },
+  {
+    "name": "Full Stack Developer",
+    "description": "Develop complete web applications across frontend and backend.",
+    "required_skills": ["HTML", "CSS", "JavaScript", "React", "Python", "Flask", "Git"]
+  },
+  {
+    "name": "Data Analyst",
+    "description": "Analyze data and create business dashboards and reports.",
+    "required_skills": ["Excel", "SQL", "Power BI", "Python", "Statistics"]
+  },
+  {
+    "name": "Data Scientist",
+    "description": "Use statistics and machine learning to create predictive insights.",
+    "required_skills": ["Python", "Machine Learning", "Statistics", "Pandas", "NumPy"]
+  },
+  {
+    "name": "AI Engineer",
+    "description": "Build intelligent systems using machine learning and deep learning.",
+    "required_skills": ["Python", "Deep Learning", "Machine Learning", "NLP", "TensorFlow"]
+  },
+  {
+    "name": "Cyber Security Analyst",
+    "description": "Protect systems by analyzing risks, networks, and security threats.",
+    "required_skills": ["Networking", "Linux", "Security", "Ethical Hacking", "Risk Analysis"]
+  }
+]

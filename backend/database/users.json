@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Admin User",
+    "email": "admin@careeriq.com",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "education": "Project Administrator",
+    "skills": [
+      "Python",
+      "Flask",
+      "React",
+      "Git"
+    ]
+  },
+  {
+    "name": "Student Demo",
+    "email": "student@careeriq.com",
+    "password": "703b0a3d6ad75b649a28adde7d83c6251da457549263bc7ff45ec709b0a8448b",
+    "education": "B.Tech Computer Science",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python"
+    ]
+  },
+  {
+    "name": "Pawan Upadhyay",
+    "email": "upawan680@gmail.com",
+    "password": "202f2ddff5de017c7236704a6d0284fcd9da29ca0af3a3acdd25f3f043a7e5ce",
+    "education": "Btech",
+    "skills": []
+  },
+  {
+    "name": "Ayush ",
+    "email": "ayush.1@gmail.com",
+    "password": "bff2e8d6202bb403efc28a07b3586c0e69cc20bdac248ffdfe73e12e081c1d1d",
+    "education": "MBA",
+    "skills": []
+  }
+]

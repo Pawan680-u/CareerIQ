@@ -1,0 +1,343 @@
+[
+  {
+    "id": "22dcf54f-ccca-4798-b6d2-19f53fc636ad",
+    "email": "upawan680@gmail.com",
+    "target_career": "Frontend Developer",
+    "readiness": 0,
+    "strong_skills": [],
+    "weak_skills": [],
+    "missing_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Tailwind"
+    ],
+    "recommendations": [
+      {
+        "name": "Frontend Developer",
+        "score": 0
+      },
+      {
+        "name": "Backend Developer",
+        "score": 0
+      },
+      {
+        "name": "Full Stack Developer",
+        "score": 0
+      },
+      {
+        "name": "Data Analyst",
+        "score": 0
+      },
+      {
+        "name": "Data Scientist",
+        "score": 0
+      },
+      {
+        "name": "AI Engineer",
+        "score": 0
+      },
+      {
+        "name": "Cyber Security Analyst",
+        "score": 0
+      }
+    ],
+    "best_match": {
+      "name": "Frontend Developer",
+      "score": 0
+    },
+    "created_at": "2026-06-21 22:40"
+  },
+  {
+    "id": "cc706542-d295-4e76-8c95-a91fae26f4d7",
+    "email": "upawan680@gmail.com",
+    "target_career": "Frontend Developer",
+    "readiness": 0,
+    "strong_skills": [],
+    "weak_skills": [],
+    "missing_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Tailwind"
+    ],
+    "recommendations": [
+      {
+        "name": "Frontend Developer",
+        "score": 0
+      },
+      {
+        "name": "Backend Developer",
+        "score": 0
+      },
+      {
+        "name": "Full Stack Developer",
+        "score": 0
+      },
+      {
+        "name": "Data Analyst",
+        "score": 0
+      },
+      {
+        "name": "Data Scientist",
+        "score": 0
+      },
+      {
+        "name": "AI Engineer",
+        "score": 0
+      },
+      {
+        "name": "Cyber Security Analyst",
+        "score": 0
+      }
+    ],
+    "best_match": {
+      "name": "Frontend Developer",
+      "score": 0
+    },
+    "created_at": "2026-06-21 22:40"
+  },
+  {
+    "id": "f63fad72-232d-4471-a2ea-17c03c4454da",
+    "email": "upawan680@gmail.com",
+    "target_career": "Backend Developer",
+    "readiness": 20,
+    "strong_skills": [
+      "SQL"
+    ],
+    "weak_skills": [],
+    "missing_skills": [
+      "Python",
+      "Flask",
+      "API",
+      "Git"
+    ],
+    "recommendations": [
+      {
+        "name": "Frontend Developer",
+        "score": 60
+      },
+      {
+        "name": "Full Stack Developer",
+        "score": 43
+      },
+      {
+        "name": "Backend Developer",
+        "score": 20
+      },
+      {
+        "name": "Data Analyst",
+        "score": 20
+      },
+      {
+        "name": "Data Scientist",
+        "score": 0
+      },
+      {
+        "name": "AI Engineer",
+        "score": 0
+      },
+      {
+        "name": "Cyber Security Analyst",
+        "score": 0
+      }
+    ],
+    "best_match": {
+      "name": "Frontend Developer",
+      "score": 60
+    },
+    "created_at": "2026-06-21 22:26"
+  },
+  {
+    "id": "38fc437a-b73e-4246-b7e9-8efa1d31db66",
+    "email": "upawan680@gmail.com",
+    "target_career": "Frontend Developer",
+    "readiness": 60,
+    "strong_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "weak_skills": [],
+    "missing_skills": [
+      "React",
+      "Tailwind"
+    ],
+    "recommendations": [
+      {
+        "name": "Frontend Developer",
+        "score": 60
+      },
+      {
+        "name": "Full Stack Developer",
+        "score": 43
+      },
+      {
+        "name": "Backend Developer",
+        "score": 20
+      },
+      {
+        "name": "Data Analyst",
+        "score": 20
+      },
+      {
+        "name": "Data Scientist",
+        "score": 0
+      },
+      {
+        "name": "AI Engineer",
+        "score": 0
+      },
+      {
+        "name": "Cyber Security Analyst",
+        "score": 0
+      }
+    ],
+    "best_match": {
+      "name": "Frontend Developer",
+      "score": 60
+    },
+    "created_at": "2026-06-21 22:25"
+  },
+  {
+    "id": "2a43b19a-4146-4fae-93a2-db81bb41ef9e",
+    "email": "ayush.1@gmail.com",
+    "target_career": "Data Scientist",
+    "readiness": 0,
+    "strong_skills": [],
+    "weak_skills": [],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "NumPy"
+    ],
+    "recommendations": [
+      {
+        "name": "Data Analyst",
+        "score": 20
+      },
+      {
+        "name": "Frontend Developer",
+        "score": 0
+      },
+      {
+        "name": "Backend Developer",
+        "score": 0
+      },
+      {
+        "name": "Full Stack Developer",
+        "score": 0
+      },
+      {
+        "name": "Data Scientist",
+        "score": 0
+      },
+      {
+        "name": "AI Engineer",
+        "score": 0
+      },
+      {
+        "name": "Cyber Security Analyst",
+        "score": 0
+      }
+    ],
+    "best_match": {
+      "name": "Data Analyst",
+      "score": 20
+    },
+    "created_at": "2026-06-21 21:39"
+  },
+  {
+    "id": "7179658e-94ac-4171-988e-7cab72a25d27",
+    "email": "upawan680@gmail.com",
+    "target_career": "Frontend Developer",
+    "readiness": 33,
+    "strong_skills": [],
+    "weak_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "missing_skills": [
+      "React",
+      "Tailwind"
+    ],
+    "recommendations": [
+      {
+        "name": "Frontend Developer",
+        "score": 60
+      },
+      {
+        "name": "Full Stack Developer",
+        "score": 43
+      },
+      {
+        "name": "Backend Developer",
+        "score": 0
+      },
+      {
+        "name": "Data Analyst",
+        "score": 0
+      },
+      {
+        "name": "Data Scientist",
+        "score": 0
+      },
+      {
+        "name": "AI Engineer",
+        "score": 0
+      },
+      {
+        "name": "Cyber Security Analyst",
+        "score": 0
+      }
+    ],
+    "best_match": {
+      "name": "Frontend Developer",
+      "score": 60
+    },
+    "created_at": "2026-06-21 21:34"
+  },
+  {
+    "id": "sample-assessment-1",
+    "email": "student@careeriq.com",
+    "target_career": "Full Stack Developer",
+    "readiness": 57,
+    "strong_skills": [
+      "HTML",
+      "CSS"
+    ],
+    "weak_skills": [
+      "JavaScript",
+      "Python"
+    ],
+    "missing_skills": [
+      "React",
+      "Flask",
+      "Git"
+    ],
+    "recommendations": [
+      {
+        "name": "Frontend Developer",
+        "score": 60
+      },
+      {
+        "name": "Full Stack Developer",
+        "score": 57
+      },
+      {
+        "name": "Backend Developer",
+        "score": 20
+      }
+    ],
+    "best_match": {
+      "name": "Frontend Developer",
+      "score": 60
+    },
+    "created_at": "2026-06-16 09:00"
+  }
+]
